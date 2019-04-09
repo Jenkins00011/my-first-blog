@@ -1,0 +1,6 @@
+[http]
+	sslBackend = schannel
+[credential]
+	helper = manager
+[core]
+	editor = nano.exe
